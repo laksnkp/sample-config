@@ -1,0 +1,6 @@
+common:
+  config:
+    name: app1
+user:
+  max-connections: 40
+  timeout-ms: 2000
