@@ -2,5 +2,5 @@ common:
   config:
     name: app1
 user:
-  max-connections: 40
-  timeout-ms: 2000
+  maxConnections: 40
+  timeout: 2000

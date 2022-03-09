@@ -1,3 +1,3 @@
 user:
-  max-connections: 10
-  timeout-ms: 5000
+  maxConnections: 10
+  timeout: 5000
